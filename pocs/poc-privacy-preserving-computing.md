@@ -1,6 +1,6 @@
 # POC Proposal: Privacy Preserving Computing
 
-**Gooup:** `Proof of Concept (POC)`
+**Group:** `Proof of Concept (POC)`
 
 **POC Category:** `core: trusted computation framework`
 
