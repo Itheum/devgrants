@@ -13,7 +13,7 @@ Itheum also has a deep integration with a web2 platform toolkit that enables the
 The data from these apps can then be "claimed" by the data creators in our Data DEX (https://datadex.itheum.com) and then traded using our decentralised tools. (watch a demo here - https://www.youtube.com/watch?v=63BE4plzDzw)
 
 We are proposing a `health industry use-case` as follows:
-![Itheum Data DEX](https://raw.githubusercontent.com/Itheum/devgrants/master/img/poc-privacy-preserving-tech.png)
+![Itheum Data DEX](https://raw.githubusercontent.com/Itheum/devgrants/rebrand/img/poc-privacy-preserving-tech.png)
 
 As part of this Proof of Concept (POC) we'd like to demonstrate the privacy-preserving layer of our platform. In Itheum; this option is handled by the "Trusted Computation Framework" and enables sensitive data from the "data collection and analytics apps" to be sold to buyers without exposing the identity of both the buyer and seller. So a seller should be able to share a "sample of sensitive data" and the buyer should be able to share a "sample algorithm" with their "expected result quality" and the trusted computation layer should mediate the execution of the compute. It should provide back the data quality score and the guarantee the buyer is using the data as per algorithm definition (i.e. the terms of the use are as per agreed on). This enables for the trade to happen via privacy preserving principles and without any intermediaries.
 
