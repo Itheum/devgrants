@@ -50,7 +50,7 @@ As part of this Proof of Concept (POC) we'd like to demonstrate the privacy-pres
 - Itheum and the partner can form an official JV to explore the opportunity and share benefits of the outcome together
 
 ## Sourcing a "Research Partner" 
-Itheum would require assistance from the partner to locate one or more research-partners who will be interested in "playing the role of the buyer" of the dataset generated via the above pipeline. This partner can be a caridiovascular health research institure, drug researcher, general data scienetist or anyone else who can provide acedemic validation that the outcome from our proof-of-concept provided value that otherwise is hard to obtain from current software or tools (non-blockchain based)
+Itheum would require assistance from our technology partner to locate one or more research-partners who will be interested in "playing the role of the buyer" of the dataset generated via the above pipeline. This partner can be a cardiovascular health research institute, drug researcher, general data scientist or anyone else who can provide academic validation that the outcome from our proof-of-concept provided value that otherwise is hard to obtain from current software or tools (non-blockchain based)
 
 # Additional Information
 
