@@ -1,28 +1,17 @@
-# Filecoin Grants
+# Itheum Grants
 
-
-Welcome to the Filecoin Grant Platform! The Filecoin Grant Platform connects grant makers with builders and researchers in the Filecoin community. Whether you represent a foundation that wants to move the space forward, a company looking to accelerate development on the features your application needs, or a dev team itching to hack on Filecoin tools, you've come to the right place. Take a look at the supported grant types and available opportunities below.
+Welcome to the Itheum Grant Platform! The Itheum Grant Platform connects grant makers with builders and researchers in the Itheum community. Whether you represent a foundation that wants to move the space forward, a company looking to accelerate development on the features your application needs, or a dev team itching to hack on Itheum tools, you've come to the right place. Take a look at the supported grant types and available opportunities below.
 
 ## Grant Types
 
 ---
 
-### Next Step Microgrants
-Grants of $5,000 in FIL are available to support taking the _next step_ after you have created an initial prototype with Filecoin. These grants are intended for independent developers, small studios, non-profits, activists, and researchers. Applicants may be working independently, or as part of a course or hackathon. The microgrants are intended for early stage projects.  If your project has already received more than $30,000 USD from any source, please apply to for an open grant (details below) rather than a microgrant.
+### Open Grants
+Do you have an idea for pushing the Itheum ecosystem forward? Grants of up to $X are available to support novel ideas that advance the Itheum ecosystem, bring significant new usage, or directly advance the Itheum mission statement.
 
-Acceptance criteria are very simple, and work is expected to be complete within 2 months. Adoption Microgrants are funded by Protocol Labs.
+Wave 1 proposal submissions are due **XX** for priority consideration.
 
-[**LEARN MORE AND APPLY FOR A MICROGRANT**](https://github.com/filecoin-project/devgrants/blob/master/microgrants/microgrants.md) • [**See Accepted Microgrant Proposals**](https://github.com/filecoin-project/devgrants/blob/master/microgrants/accepted-microgrant-applications.md) 
-
----
-
-### Open Grant
-Do you have an idea for pushing the Filecoin ecosystem forward? Grants of up to $30,000 are available to support novel ideas that advance the Filecoin ecosystem, bring significant new usage, or directly advance the Filecoin mission statement.
-
- Wave 10 proposal submissions are due **August 31, 2021 at 23:59 PDT** for priority consideration.
-
-[**LEARN MORE ABOUT OPEN GRANTS**](https://github.com/filecoin-project/devgrants/tree/master/open-grants) **AND** [**APPLY FOR AN OPEN GRANT**](https://github.com/filecoin-project/devgrants/blob/master/README.md#submit-a-proposal-for-open-grants) • [**See Open Grant Proposals**](https://github.com/filecoin-project/devgrants/labels/proposal-type%3Aopen)
-
+OPEN RFPs:
 
 ---
 
@@ -31,16 +20,8 @@ RFPs are grants for specific development work. As the name suggests, we are requ
 
 OPEN RFPs:
 
-[**Hedera x Filecoin**](https://github.com/filecoin-project/devgrants/blob/master/rfps/hedera-and-filecoin.md) -- Deadline August 30
-
-[**Chainlink x Filecoin**](https://github.com/filecoin-project/devgrants/blob/master/rfps/chainlink-and-filecoin.md) -- Deadline September 17
-
-[**Near Protocol x Filecoin**](https://github.com/filecoin-project/devgrants/blob/master/rfps/near-and-filecoin.md) -- Deadline October 30 
-
-[**LEARN MORE AND APPLY FOR AN RFP**](https://github.com/filecoin-project/devgrants/blob/master/README.md#submit-a-proposal-for-an-rfp)
-
 ---
 
 ### Don't see your grant type?
-Is your organization interested in offering a grant that doesn't fit into any of the above categories? [Email us directly](grants@filecoin.org) with your idea.
+Is your organization interested in offering a grant that doesn't fit into any of the above categories? [Email us directly](grants@itheum.com) with your idea.
 
