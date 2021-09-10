@@ -10,7 +10,7 @@ Itheum is a decentralised data brokerage. It's a cross-chain "Data DEX" that all
 
 Itheum also has a deep integration with a web2 platform toolkit that enables the building of "data collection and analytics apps" - anyone can use this toolkit to build user data collection tools with built in outcome-oriented analytics. This product is already in the market and powers products like OKPulse (https://okpulse.life) and Red Heart Challege (https://itheum.com/redheartchallenge). The aim of this product is to democratise data collection and analytics technology and to increase the quality of high quality, outcome oriented personal data.
 
-The data from these apps can then be "claimed" by the data creators in our Data DEX (https://datadex.itheum.com) and then traded using our decentralised tools. (watch a demo here - https://www.youtube.com/watch?v=63BE4plzDzw)
+The data from these apps can then be "claimed" by the data creators in our Data DEX (https://datadex.itheum.com) and then traded using our decentralised tools. (watch a demo here - https://youtu.be/vjri1eD7dPE?t=2718)
 
 ## We are proposing a `health industry use-case` as follows:
 
