@@ -22,7 +22,7 @@ Our current state of the DAO designs do have some flaws that we would like to ad
 
 ## We are proposing `multi-sig protection for Data Coalition fund pools` as follows:
 
-![Itheum Data DEX](https://raw.githubusercontent.com/Itheum/devgrants/rebrand/img/poc-multisig-datacoalition-fund-pool.png)
+![Itheum Data DEX](https://raw.githubusercontent.com/Itheum/devgrants/rebrand/img/poc-multisig-datacoalition-fund-pool-new.png)
 
 As part of this Proof of Concept (POC) we'd like to demonstrate how Multisig technology can make the Data Coalition Fund pool more robust and less prone to centralised influence and attacks. Our proposed solution is:
 
