@@ -6,7 +6,7 @@
 
 
 # Project Description
-Itheum is a decentralised data brokerage. It's a cross-chain "Data DEX" that allows users to trade personal data securely on-chain (works on EVM chains). `Data Coalitions` our one of the key features of the Itheum Platform and is a `DAO based entity that allows for the bulk-sale of personal data. Itheum's DAO designs were a **finalist in the Global DAOHack competition** and we presented our designs live in their final [YouTube pitch session](https://www.youtube.com/watch?v=vjri1eD7dPE&t=3403s).
+Itheum is a decentralised data brokerage. It's a cross-chain "Data DEX" that allows users to trade personal data securely on-chain (works on EVM chains). `Data Coalitions` our one of the key features of the Itheum Platform and is a `DAO based entity that allows for the bulk-sale of personal data. Itheum's DAO designs were a **finalist in the Global DAOHack competition** and we presented our designs live in their final [YouTube pitch session](https://youtu.be/vjri1eD7dPE?t=2718).
 
 Our current state of the DAO designs do have some flaws that we would like to address as part of the POC proposal. We detail the flaws and the recommended solution below.
 
